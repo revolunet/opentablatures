@@ -1,6 +1,6 @@
 // from https://github.com/zimolzak/ukulele
 
-export default [
+module.exports = [
   {
     "key": "A",
     "positions": [

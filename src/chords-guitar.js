@@ -1,5 +1,5 @@
 
-export default [ { key: 'C', positions: [ 'x', 3, 2, 0, 1, 0 ] },
+module.exports = [ { key: 'C', positions: [ 'x', 3, 2, 0, 1, 0 ] },
   { key: 'D', positions: [ 'x', 'x', 0, 2, 3, 2 ] },
   { key: 'E', positions: [ 0, 2, 2, 1, 0, 0 ] },
   { key: 'G', positions: [ 3, 2, 0, 0, 3, 3 ] },
