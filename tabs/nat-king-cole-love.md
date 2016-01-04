@@ -3,7 +3,7 @@ author: Nat King Cole
 title: L.O.V.E.
 chords: C F Dm Gm Gm7 F7 Bb Bb7 G G7 Cmaj7 C7
 video: https://www.youtube.com/watch?v=RLhnyZc9V34
-by: revolunet
+by: juju
 ---
 
 

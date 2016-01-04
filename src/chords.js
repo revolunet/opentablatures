@@ -76,7 +76,3 @@ export default {
     getAscii: getChordAscii
 };
 
-// console.log(getChordAscii('A', 'guitar'));
-// console.log(getChordAscii('A', 'ukulele'));
-// console.log(getChordAscii('C', 'ukulele'));
-// console.log(getChordAscii('C', 'guitar'));
