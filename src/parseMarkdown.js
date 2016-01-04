@@ -35,6 +35,7 @@ pre.lyrics {
 <h2>
     <a href="./index.html">Index</a> ${ content.attributes.title } - ${ content.attributes.author }
 </h2>
+${ content.attributes.video && '<a href="' + content.attributes.video + '">' + content.attributes.video + '</a><br><br>' }
 ${ asciiChords }
 <pre class='lyrics'>
 ${ content.body }

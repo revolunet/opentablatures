@@ -3,9 +3,11 @@
  - some tablatures for ukulele beginner
  - generates static html pages for mobile
 
+Online at <a href="http://revolunet.github.io/ukulele-tabs">revolunet.github.io/ukulele-tabs</a>
+
 ### Add a new tablature
 
-Just add a new `.md` file in the `tabs` folder.
+Add a new `.md` file in the `tabs` folder.
 
 This file is a standard text-like tablature but support YAML headers too.
 
