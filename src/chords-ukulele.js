@@ -131,9 +131,9 @@ module.exports = [
     "key": "Am",
     "positions": [
       2,
-      4,
       0,
-      3
+      0,
+      0
     ]
   },
   {
@@ -224,6 +224,15 @@ module.exports = [
       3,
       2,
       2
+    ]
+  },
+  {
+    "key": "Bb",
+    "positions": [
+      3,
+      2,
+      1,
+      1
     ]
   },
   {
@@ -329,8 +338,8 @@ module.exports = [
     "key": "C",
     "positions": [
       0,
-      4,
-      3,
+      0,
+      0,
       3
     ]
   },
@@ -733,7 +742,7 @@ module.exports = [
   {
     "key": "Em",
     "positions": [
-      4,
+      0,
       4,
       3,
       2
@@ -781,7 +790,7 @@ module.exports = [
       2,
       0,
       1,
-      3
+      0
     ]
   },
   {
@@ -940,7 +949,7 @@ module.exports = [
   {
     "key": "G",
     "positions": [
-      4,
+      0,
       2,
       3,
       2

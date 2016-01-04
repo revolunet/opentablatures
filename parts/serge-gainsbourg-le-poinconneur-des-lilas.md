@@ -3,12 +3,14 @@ tone: B
 author: Serge Gainsbourg
 title: Le poinçonneur des Lilas
 chords: Em Am C G B Bm Bb D
+source: http://tontonremy.com/ukulele/partoches/francais/page15/page199/page199.html
+by: tontonremy
 ---
 
 
 Em
 J'suis l'poinçonneur des Lilas
-                                                           Am
+                                                           Am C6
 Le gars qu'on croise et qu'on n' regarde pas
 C                                 G
 Y a pas d'soleil sous la terre
@@ -21,7 +23,7 @@ Les extraits du Reader Digest
 
 Em
 Et dans c'bouquin y a écrit
-                                                      Am
+                                                      Am C6
 Que des gars s'la coulent douce à Miami
 C                                                 G
 Pendant c'temps que je fais l'zouave
