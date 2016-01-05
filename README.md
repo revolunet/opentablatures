@@ -3,7 +3,7 @@
  - some tablatures for ukulele beginners
  - generates static html pages for mobile
 
-Online at <a href="http://revolunet.github.io/ukulele-tabs">revolunet.github.io/ukulele-tabs</a>
+Online at <a href="http://tabs.revolunet.com">tabs.revolunet.com</a>
 
 ### Add a new tablature
 
