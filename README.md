@@ -1,6 +1,6 @@
-# Some ukulele/guitar tabs
+# opentablatures
 
- - some tablatures for ukulele beginner
+ - some tablatures for ukulele beginners
  - generates static html pages for mobile
 
 Online at <a href="http://revolunet.github.io/ukulele-tabs">revolunet.github.io/ukulele-tabs</a>
@@ -33,8 +33,10 @@ Then `npm run build` to generate the website
 
 ### Todo
 
- - auto-scroll
-
  - mobile-friendly (offline)
+
+ - handle strumming patterns in YAML header
+
+ - auto-scroll
 
  - generate guitar versions too
